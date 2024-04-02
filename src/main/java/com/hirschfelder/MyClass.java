@@ -11,6 +11,6 @@ public class MyClass {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello from Lars!";
+        return "Hello from Lars! 02.04.2024 - 15:16h";
     }
 }
